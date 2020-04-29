@@ -1,0 +1,6 @@
+adresse  Avenue Hbib-Bourguiba 100 Tunis
+frais  900
+10  80
+20  70
+30  110
+50  220

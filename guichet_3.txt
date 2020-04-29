@@ -1,0 +1,6 @@
+adresse  Avenue Mohammed 5 Tunis
+frais  1300
+10  100
+20  500
+30  10
+50  0
